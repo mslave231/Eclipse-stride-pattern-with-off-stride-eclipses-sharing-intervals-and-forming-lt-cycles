@@ -1,0 +1,16 @@
+Data and report license
+
+Copyright (c) 2026 Matt Slavik
+
+The data files (Outputs/, Null Tests/, Pipeline/_saros_numbers.xlsx), the report (Report/) and the
+documentation (README.md, DATA_DICTIONARY.md, FULL_CATALOG_SUMMARY.md) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this material for any purpose, provided you give appropriate credit (cite the
+work; see CITATION.cff), provide a link to the license, and indicate if changes were made.
+
+The code (Pipeline/*.py, Pattern/*.py) is licensed under the MIT License (see LICENSE).
+
+The cached NASA pages in Reference_NASA/ are NASA eclipse predictions by Fred Espenak (NASA's GSFC),
+included for comparison only; they are not covered by these licenses.

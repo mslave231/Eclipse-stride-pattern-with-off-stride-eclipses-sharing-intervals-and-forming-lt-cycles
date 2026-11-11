@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this catalog, data or code, please cite the report below."
+title: "An Eclipse Stride Pattern with Off-Stride Eclipses Forming Alternating Cycles and Sharing Intervals over 30,000 Years: catalog, data and code"
+type: software
+authors:
+  - family-names: Slavik
+    given-names: Matt
+version: 1.0.0
+date-released: 2026-11-11
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/mslave231/Eclipse-stride-pattern-with-off-stride-eclipses-sharing-intervals-and-forming-lt-cycles"
+# doi: 10.5281/zenodo.XXXXXXX        <- add the repository's Zenodo DOI once it exists
+abstract: >-
+  A catalog of every solar and lunar eclipse from -13198 to +17189 (145,356 eclipses) computed from the
+  JPL DE441 ephemeris, with the data and code behind a 23.5/34.5-synodic-month stride pattern, the 5,124
+  off-stride eclipses, their 112 alternating cycles and the 16,377 intervals they share.
+keywords:
+  - solar eclipses
+  - lunar eclipses
+  - eclipse catalog
+  - Saros
+  - Inex
+  - DE441
+  - synodic month
+preferred-citation:
+  type: report
+  title: "An Eclipse Stride Pattern with Off-Stride Eclipses Forming Alternating Cycles and Sharing Intervals over 30,000 Years"
+  authors:
+    - family-names: Slavik
+      given-names: Matt
+  year: 2026
+  month: 11
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24141851
+  url: "https://doi.org/10.5281/zenodo.24141851"
